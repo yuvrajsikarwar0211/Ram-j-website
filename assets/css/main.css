@@ -153,7 +153,7 @@ h6 {
 
 .header .topbar {
   background-color: var(--background-color);
-  height: 40px;
+  height: 60px;
   padding: 0;
   font-size: 14px;
   transition: all 0.5s;
